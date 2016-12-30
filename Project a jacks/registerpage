@@ -1,0 +1,406 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<title>Search/Register for Sections</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link type="text/css" rel="stylesheet" href="./stylesheets/themes/ORIGINAL/SiteStyle.css">
+<link type="text/css" rel="stylesheet" href="./stylesheets/themes/ORIGINAL/ConstituencyStyle.css">
+<link type="text/css" rel="stylesheet" href="./stylesheets/themes/ORIGINAL/waprint.css">
+<script language="Javascript" type="text/javascript" src="./javascript/WebAdvisor_scripts.js"></script>
+<noscript>
+<h1>Javascript is currently disabled. Javascript is required for WebAdvisor functionality and must be enabled before proceeding.</h1>
+</noscript>
+</head>
+<body onLoad="javascript:displayFormHTML(true);">
+<div id="webPage">
+<div id="pageHeader">
+<div id="headerBanner">
+<div id="acctToolbar">
+<ul class="toolbar">
+<li id="acctContact">
+<a href="HTTP://helpdesk.northpark.edu" onmouseover="window.status=''; return true;"><span class="label">Contact Us</span></a>
+</li>
+<li id="acctHelp">
+<a target="_help" href="HTTPS://webadvisor.northpark.edu/WebAdvisor/Help?TOKENIDX=5034065060&amp;WEB=Y&amp;type=P&amp;pid=ST-WESTS04A&amp;constituency=WBST&amp;username=Phillip" accesskey="h" onmouseover="window.status=''; return true;"><span class="label">Help</span></a>
+</li>
+<li id="acctConstituency">
+<a href="HTTPS://webadvisor.northpark.edu/WebAdvisor/WebAdvisor?TOKENIDX=5034065060&amp;CONSTITUENCY=WBST&amp;TYPE=M&amp;PID=CORE-WBST" onmouseover="window.status=''; return true;"><span class="label">Students Menu</span></a>
+</li>
+<li id="acctMain">
+<a href="HTTPS://webadvisor.northpark.edu/WebAdvisor/WebAdvisor?TOKENIDX=5034065060&amp;CONSTITUENCY=WBST&amp;TYPE=M&amp;PID=CORE-WBMAIN" onmouseover="window.status=''; return true;"><span class="label">Main Menu</span></a>
+</li>
+<li id="acctLogout">
+<a href="HTTPS://webadvisor.northpark.edu/WebAdvisor/WebAdvisor?TOKENIDX=5034065060&amp;CONSTITUENCY=WBST&amp;type=P&amp;pid=UT-LORQ" onmouseover="window.status=''; return true;"><span class="label">Log Out </span></a>
+</li>
+</ul>
+<div id="acctWidget">
+</div>
+</div>
+</div>
+<div class="custom">
+</div>
+</div>
+<div id="pageBody" class="WBST">
+<div id="bodyWelcome">
+<span>Welcome The best student ever!!</span>
+</div>
+<div id="bodyConstituency">Current Students</div>
+<div class="clear">
+</div>
+<div id="bodyForm">
+<div id="screenTitle">
+<span>Search/Register for Sections</span>
+</div>
+<div class="custom">
+</div>
+<div class="custom">
+<pre>
+</pre>
+</div>
+<div class="screen">
+<form name="datatelform" method="post" autocomplete="OFF" action="file:///Users/Tiggiebear/Desktop/Project%20a%20jacks/physicspage" onsubmit="javascript:disableButton('SUBMIT2');">
+<table class="mainTable" summary="This panel contains controls that are vertically  aligned.">
+<tr>
+<td colspan="2">
+<div class="vertical">
+<table class="layout" summary="This panel contains controls that are vertically  aligned.">
+<tr>
+<td colspan="2">
+<div class="envisionWindow" id="GROUP_Grp_COMMENT_VAR1">
+<input type="hidden" value="COMMENT.VAR1" name="COMMENT.VAR1_CONTROLLER"><input type="hidden" value="COMMENT.VAR1" name="COMMENT.VAR1_MEMBERS">
+<table summary="Message">
+<tr>
+<th class="groupTitle" colspan="1">Message</th>
+</tr>
+<tr>
+<th class="windowIdx"></th><th class="Grp_COMMENT_VAR1 left"><input type="hidden" name="COMMENT.VAR1_MAX" value="0"></th>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<HR>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="vertical">
+<table class="layout" summary="This panel contains controls that are vertically  aligned.">
+<tr>
+<td class="component combobox label"><label id="LABELID_VAR1" class="" for="VAR1">Term</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR1"></label><select name="VAR1" id="VAR1"><option value=""></option><option value="16/S1">Fall 16-17</option><option value="16/S2">Spring 16-17</option></select>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<HR>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="vertical">
+<table class="layout" summary="This panel contains controls that are vertically  aligned.">
+<tr>
+<td colspan="2">
+<div class="horizontal">
+<table class="layout" summary="This panel contains controls that are horizontally aligned.">
+<tr>
+<td class="component date label"><label id="LABELID_DATE_VAR1" class="" for="DATE_VAR1">Starting On/After Date</label></td><td class="control right">
+<div>
+<label class="hidden" for="DATE_VAR1"></label><input id="DATE_VAR1" type="text" name="DATE.VAR1" maxlength="12" size="12">
+</div>
+</td><td class="component date label"><label id="LABELID_DATE_VAR2" class="" for="DATE_VAR2">Ending By Date</label></td><td class="control right">
+<div>
+<label class="hidden" for="DATE_VAR2"></label><input id="DATE_VAR2" type="text" name="DATE.VAR2" maxlength="12" size="12">
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<HR>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="vertical">
+<table class="layout" summary="This panel contains controls that are vertically  aligned.">
+<tr>
+<td colspan="2">
+<div class="envisionWindow" id="GROUP_Grp_LIST_VAR1">
+<input type="hidden" value="LIST.VAR1" name="LIST.VAR1_CONTROLLER"><input type="hidden" value="LIST.VAR1*LIST.VAR2*LIST.VAR3*LIST.VAR4" name="LIST.VAR1_MEMBERS">
+<table summary="Class Sections Information">
+<tr>
+<th class="groupTitle" colspan="4">Class Sections Information</th>
+</tr>
+<tr>
+<th class="windowIdx"></th><th class="Grp_LIST_VAR1 left"><input type="hidden" name="LIST.VAR1_MAX" value="5">Subject</th><th class="Grp_LIST_VAR1 left"><input type="hidden" name="LIST.VAR2_MAX" value="5">Course Level</th><th class="Grp_LIST_VAR1 left"><input type="hidden" name="LIST.VAR3_MAX" value="5">Course Number</th><th class="Grp_LIST_VAR1 left"><input type="hidden" name="LIST.VAR4_MAX" value="5">Section</th>
+</tr>
+<tr>
+<td class="windowIdx">1</td><td class=" LIST_VAR1 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR1_1"></label><select name="LIST.VAR1_1" id="LIST_VAR1_1"><option value=""></option><option value="ACSR">Academic Services</option><option value="AMUS">Applied Music</option><option value="ARAB">Arabic</option><option value="ART">Art Department</option><option value="AS">Africana Studies</option><option value="BADM">Business Administration - SPS</option><option value="BIBL">Bible (Seminary)</option><option value="BIOL">Biology</option><option value="BSE">Business &amp; Economics</option><option value="BTS">Bib. and Theo. Studi</option><option value="CEDF">Christian Educ/Form</option><option value="CHEM">Chemistry</option><option value="CHIN">Chinese</option><option value="CJ">Criminal Justice - SPS</option><option value="CMM">Church and Ministry Mgmt -SPS</option><option value="COMM">Communication Arts</option><option value="CORE">Core Curriculum</option><option value="CPSY">Counseling Psychology - SPS</option><option value="CSIS">Computer Sci. &amp; Info. Systems</option><option value="CTS">Conflict Transform. Studies</option><option value="DMCP">DMin Church Planting</option><option value="DMPR">DMin.Preaching-ACTS</option><option value="DURM">Doctorate of Urban Ministry</option><option value="EDUC">Education</option><option value="ENG">English</option><option value="ESL">English 2nd Language</option><option value="EXS">Exercise and Sport</option><option value="FLDC">Field Experience</option><option value="FREN">French</option><option value="GBLS">Global Studies</option><option value="GERM">German</option><option value="GH">General Honors</option><option value="GRK">Greek</option><option value="GS">General Studies - SPS</option><option value="HIST">History</option><option value="HON">Honors</option><option value="HSC">Health Science</option><option value="HSTY">History (Seminary)</option><option value="INTG">Integrated - Sem. Dual Degree</option><option value="ISIT">Info. Sys. &amp; Info. Tech. -SPS</option><option value="ITAL">Italian</option><option value="LAS">Latin Amer. Studies</option><option value="MACD">MA Community Develop</option><option value="MATH">Mathematics</option><option value="MNST">Ministry (Seminary)</option><option value="MUS">Music</option><option value="NONP">Nonprofit Management</option><option value="NPD">North Park Dialogue</option><option value="NPM">Non-Profit Management - SPS</option><option value="NURS">Nursing</option><option value="OC">Online Consortium</option><option value="ORG">Organization Mgmt. - SPS</option><option value="PHEN">Physics and Engineering</option><option value="PHIL">Philosophy</option><option value="POGO">Politics &amp; Govt.</option><option value="PSYC">Psychology</option><option value="SBNM">School of Business &amp; Nonprofit</option><option value="SCAN">Scandinavian Studies</option><option value="SEM">Seminary </option><option value="SOC">Sociology</option><option value="SPAN">Spanish</option><option value="SPFM">Spiritual Formation</option><option value="STAT">Statistics</option><option value="SWED">Swedish</option><option value="THEA">Theatre</option><option value="THEO">Theology (Seminary)</option><option value="WGS">Women's and Gender Studies</option><option value="WRIT">Writing Center</option><option value="YM">Youth Ministry</option></select>
+</div>
+</td><td class=" LIST_VAR2 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR2_1"></label><select name="LIST.VAR2_1" id="LIST_VAR2_1"><option value=""></option><option value="000L">Special</option><option value="1000">1000 Level</option><option value="2000">2000 Level</option><option value="3000">3000 Level</option><option value="4000">4000 Level</option><option value="5000">Graduate Level</option></select>
+</div>
+</td><td class=" LIST_VAR3 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR3_1"></label><input id="LIST_VAR3_1" type="text" name="LIST.VAR3_1" maxlength="7" size="7">
+</div>
+</td><td class=" LIST_VAR4 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR4_1"></label><input id="LIST_VAR4_1" type="text" name="LIST.VAR4_1" maxlength="5" size="5">
+</div>
+</td>
+</tr>
+<tr>
+<td class="windowIdx">2</td><td class=" LIST_VAR1 left evenrow">
+<div>
+<label class="hidden" for="LIST_VAR1_2"></label><select name="LIST.VAR1_2" id="LIST_VAR1_2"><option value=""></option><option value="ACSR">Academic Services</option><option value="AMUS">Applied Music</option><option value="ARAB">Arabic</option><option value="ART">Art Department</option><option value="AS">Africana Studies</option><option value="BADM">Business Administration - SPS</option><option value="BIBL">Bible (Seminary)</option><option value="BIOL">Biology</option><option value="BSE">Business &amp; Economics</option><option value="BTS">Bib. and Theo. Studi</option><option value="CEDF">Christian Educ/Form</option><option value="CHEM">Chemistry</option><option value="CHIN">Chinese</option><option value="CJ">Criminal Justice - SPS</option><option value="CMM">Church and Ministry Mgmt -SPS</option><option value="COMM">Communication Arts</option><option value="CORE">Core Curriculum</option><option value="CPSY">Counseling Psychology - SPS</option><option value="CSIS">Computer Sci. &amp; Info. Systems</option><option value="CTS">Conflict Transform. Studies</option><option value="DMCP">DMin Church Planting</option><option value="DMPR">DMin.Preaching-ACTS</option><option value="DURM">Doctorate of Urban Ministry</option><option value="EDUC">Education</option><option value="ENG">English</option><option value="ESL">English 2nd Language</option><option value="EXS">Exercise and Sport</option><option value="FLDC">Field Experience</option><option value="FREN">French</option><option value="GBLS">Global Studies</option><option value="GERM">German</option><option value="GH">General Honors</option><option value="GRK">Greek</option><option value="GS">General Studies - SPS</option><option value="HIST">History</option><option value="HON">Honors</option><option value="HSC">Health Science</option><option value="HSTY">History (Seminary)</option><option value="INTG">Integrated - Sem. Dual Degree</option><option value="ISIT">Info. Sys. &amp; Info. Tech. -SPS</option><option value="ITAL">Italian</option><option value="LAS">Latin Amer. Studies</option><option value="MACD">MA Community Develop</option><option value="MATH">Mathematics</option><option value="MNST">Ministry (Seminary)</option><option value="MUS">Music</option><option value="NONP">Nonprofit Management</option><option value="NPD">North Park Dialogue</option><option value="NPM">Non-Profit Management - SPS</option><option value="NURS">Nursing</option><option value="OC">Online Consortium</option><option value="ORG">Organization Mgmt. - SPS</option><option value="PHEN">Physics and Engineering</option><option value="PHIL">Philosophy</option><option value="POGO">Politics &amp; Govt.</option><option value="PSYC">Psychology</option><option value="SBNM">School of Business &amp; Nonprofit</option><option value="SCAN">Scandinavian Studies</option><option value="SEM">Seminary </option><option value="SOC">Sociology</option><option value="SPAN">Spanish</option><option value="SPFM">Spiritual Formation</option><option value="STAT">Statistics</option><option value="SWED">Swedish</option><option value="THEA">Theatre</option><option value="THEO">Theology (Seminary)</option><option value="WGS">Women's and Gender Studies</option><option value="WRIT">Writing Center</option><option value="YM">Youth Ministry</option></select>
+</div>
+</td><td class=" LIST_VAR2 left evenrow">
+<div>
+<label class="hidden" for="LIST_VAR2_2"></label><select name="LIST.VAR2_2" id="LIST_VAR2_2"><option value=""></option><option value="000L">Special</option><option value="1000">1000 Level</option><option value="2000">2000 Level</option><option value="3000">3000 Level</option><option value="4000">4000 Level</option><option value="5000">Graduate Level</option></select>
+</div>
+</td><td class=" LIST_VAR3 left evenrow">
+<div>
+<label class="hidden" for="LIST_VAR3_2"></label><input id="LIST_VAR3_2" type="text" name="LIST.VAR3_2" maxlength="7" size="7">
+</div>
+</td><td class=" LIST_VAR4 left evenrow">
+<div>
+<label class="hidden" for="LIST_VAR4_2"></label><input id="LIST_VAR4_2" type="text" name="LIST.VAR4_2" maxlength="5" size="5">
+</div>
+</td>
+</tr>
+<tr>
+<td class="windowIdx">3</td><td class=" LIST_VAR1 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR1_3"></label><select name="LIST.VAR1_3" id="LIST_VAR1_3"><option value=""></option><option value="ACSR">Academic Services</option><option value="AMUS">Applied Music</option><option value="ARAB">Arabic</option><option value="ART">Art Department</option><option value="AS">Africana Studies</option><option value="BADM">Business Administration - SPS</option><option value="BIBL">Bible (Seminary)</option><option value="BIOL">Biology</option><option value="BSE">Business &amp; Economics</option><option value="BTS">Bib. and Theo. Studi</option><option value="CEDF">Christian Educ/Form</option><option value="CHEM">Chemistry</option><option value="CHIN">Chinese</option><option value="CJ">Criminal Justice - SPS</option><option value="CMM">Church and Ministry Mgmt -SPS</option><option value="COMM">Communication Arts</option><option value="CORE">Core Curriculum</option><option value="CPSY">Counseling Psychology - SPS</option><option value="CSIS">Computer Sci. &amp; Info. Systems</option><option value="CTS">Conflict Transform. Studies</option><option value="DMCP">DMin Church Planting</option><option value="DMPR">DMin.Preaching-ACTS</option><option value="DURM">Doctorate of Urban Ministry</option><option value="EDUC">Education</option><option value="ENG">English</option><option value="ESL">English 2nd Language</option><option value="EXS">Exercise and Sport</option><option value="FLDC">Field Experience</option><option value="FREN">French</option><option value="GBLS">Global Studies</option><option value="GERM">German</option><option value="GH">General Honors</option><option value="GRK">Greek</option><option value="GS">General Studies - SPS</option><option value="HIST">History</option><option value="HON">Honors</option><option value="HSC">Health Science</option><option value="HSTY">History (Seminary)</option><option value="INTG">Integrated - Sem. Dual Degree</option><option value="ISIT">Info. Sys. &amp; Info. Tech. -SPS</option><option value="ITAL">Italian</option><option value="LAS">Latin Amer. Studies</option><option value="MACD">MA Community Develop</option><option value="MATH">Mathematics</option><option value="MNST">Ministry (Seminary)</option><option value="MUS">Music</option><option value="NONP">Nonprofit Management</option><option value="NPD">North Park Dialogue</option><option value="NPM">Non-Profit Management - SPS</option><option value="NURS">Nursing</option><option value="OC">Online Consortium</option><option value="ORG">Organization Mgmt. - SPS</option><option value="PHEN">Physics and Engineering</option><option value="PHIL">Philosophy</option><option value="POGO">Politics &amp; Govt.</option><option value="PSYC">Psychology</option><option value="SBNM">School of Business &amp; Nonprofit</option><option value="SCAN">Scandinavian Studies</option><option value="SEM">Seminary </option><option value="SOC">Sociology</option><option value="SPAN">Spanish</option><option value="SPFM">Spiritual Formation</option><option value="STAT">Statistics</option><option value="SWED">Swedish</option><option value="THEA">Theatre</option><option value="THEO">Theology (Seminary)</option><option value="WGS">Women's and Gender Studies</option><option value="WRIT">Writing Center</option><option value="YM">Youth Ministry</option></select>
+</div>
+</td><td class=" LIST_VAR2 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR2_3"></label><select name="LIST.VAR2_3" id="LIST_VAR2_3"><option value=""></option><option value="000L">Special</option><option value="1000">1000 Level</option><option value="2000">2000 Level</option><option value="3000">3000 Level</option><option value="4000">4000 Level</option><option value="5000">Graduate Level</option></select>
+</div>
+</td><td class=" LIST_VAR3 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR3_3"></label><input id="LIST_VAR3_3" type="text" name="LIST.VAR3_3" maxlength="7" size="7">
+</div>
+</td><td class=" LIST_VAR4 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR4_3"></label><input id="LIST_VAR4_3" type="text" name="LIST.VAR4_3" maxlength="5" size="5">
+</div>
+</td>
+</tr>
+<tr>
+<td class="windowIdx">4</td><td class=" LIST_VAR1 left evenrow">
+<div>
+<label class="hidden" for="LIST_VAR1_4"></label><select name="LIST.VAR1_4" id="LIST_VAR1_4"><option value=""></option><option value="ACSR">Academic Services</option><option value="AMUS">Applied Music</option><option value="ARAB">Arabic</option><option value="ART">Art Department</option><option value="AS">Africana Studies</option><option value="BADM">Business Administration - SPS</option><option value="BIBL">Bible (Seminary)</option><option value="BIOL">Biology</option><option value="BSE">Business &amp; Economics</option><option value="BTS">Bib. and Theo. Studi</option><option value="CEDF">Christian Educ/Form</option><option value="CHEM">Chemistry</option><option value="CHIN">Chinese</option><option value="CJ">Criminal Justice - SPS</option><option value="CMM">Church and Ministry Mgmt -SPS</option><option value="COMM">Communication Arts</option><option value="CORE">Core Curriculum</option><option value="CPSY">Counseling Psychology - SPS</option><option value="CSIS">Computer Sci. &amp; Info. Systems</option><option value="CTS">Conflict Transform. Studies</option><option value="DMCP">DMin Church Planting</option><option value="DMPR">DMin.Preaching-ACTS</option><option value="DURM">Doctorate of Urban Ministry</option><option value="EDUC">Education</option><option value="ENG">English</option><option value="ESL">English 2nd Language</option><option value="EXS">Exercise and Sport</option><option value="FLDC">Field Experience</option><option value="FREN">French</option><option value="GBLS">Global Studies</option><option value="GERM">German</option><option value="GH">General Honors</option><option value="GRK">Greek</option><option value="GS">General Studies - SPS</option><option value="HIST">History</option><option value="HON">Honors</option><option value="HSC">Health Science</option><option value="HSTY">History (Seminary)</option><option value="INTG">Integrated - Sem. Dual Degree</option><option value="ISIT">Info. Sys. &amp; Info. Tech. -SPS</option><option value="ITAL">Italian</option><option value="LAS">Latin Amer. Studies</option><option value="MACD">MA Community Develop</option><option value="MATH">Mathematics</option><option value="MNST">Ministry (Seminary)</option><option value="MUS">Music</option><option value="NONP">Nonprofit Management</option><option value="NPD">North Park Dialogue</option><option value="NPM">Non-Profit Management - SPS</option><option value="NURS">Nursing</option><option value="OC">Online Consortium</option><option value="ORG">Organization Mgmt. - SPS</option><option value="PHEN">Physics and Engineering</option><option value="PHIL">Philosophy</option><option value="POGO">Politics &amp; Govt.</option><option value="PSYC">Psychology</option><option value="SBNM">School of Business &amp; Nonprofit</option><option value="SCAN">Scandinavian Studies</option><option value="SEM">Seminary </option><option value="SOC">Sociology</option><option value="SPAN">Spanish</option><option value="SPFM">Spiritual Formation</option><option value="STAT">Statistics</option><option value="SWED">Swedish</option><option value="THEA">Theatre</option><option value="THEO">Theology (Seminary)</option><option value="WGS">Women's and Gender Studies</option><option value="WRIT">Writing Center</option><option value="YM">Youth Ministry</option></select>
+</div>
+</td><td class=" LIST_VAR2 left evenrow">
+<div>
+<label class="hidden" for="LIST_VAR2_4"></label><select name="LIST.VAR2_4" id="LIST_VAR2_4"><option value=""></option><option value="000L">Special</option><option value="1000">1000 Level</option><option value="2000">2000 Level</option><option value="3000">3000 Level</option><option value="4000">4000 Level</option><option value="5000">Graduate Level</option></select>
+</div>
+</td><td class=" LIST_VAR3 left evenrow">
+<div>
+<label class="hidden" for="LIST_VAR3_4"></label><input id="LIST_VAR3_4" type="text" name="LIST.VAR3_4" maxlength="7" size="7">
+</div>
+</td><td class=" LIST_VAR4 left evenrow">
+<div>
+<label class="hidden" for="LIST_VAR4_4"></label><input id="LIST_VAR4_4" type="text" name="LIST.VAR4_4" maxlength="5" size="5">
+</div>
+</td>
+</tr>
+<tr>
+<td class="windowIdx">5</td><td class=" LIST_VAR1 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR1_5"></label><select name="LIST.VAR1_5" id="LIST_VAR1_5"><option value=""></option><option value="ACSR">Academic Services</option><option value="AMUS">Applied Music</option><option value="ARAB">Arabic</option><option value="ART">Art Department</option><option value="AS">Africana Studies</option><option value="BADM">Business Administration - SPS</option><option value="BIBL">Bible (Seminary)</option><option value="BIOL">Biology</option><option value="BSE">Business &amp; Economics</option><option value="BTS">Bib. and Theo. Studi</option><option value="CEDF">Christian Educ/Form</option><option value="CHEM">Chemistry</option><option value="CHIN">Chinese</option><option value="CJ">Criminal Justice - SPS</option><option value="CMM">Church and Ministry Mgmt -SPS</option><option value="COMM">Communication Arts</option><option value="CORE">Core Curriculum</option><option value="CPSY">Counseling Psychology - SPS</option><option value="CSIS">Computer Sci. &amp; Info. Systems</option><option value="CTS">Conflict Transform. Studies</option><option value="DMCP">DMin Church Planting</option><option value="DMPR">DMin.Preaching-ACTS</option><option value="DURM">Doctorate of Urban Ministry</option><option value="EDUC">Education</option><option value="ENG">English</option><option value="ESL">English 2nd Language</option><option value="EXS">Exercise and Sport</option><option value="FLDC">Field Experience</option><option value="FREN">French</option><option value="GBLS">Global Studies</option><option value="GERM">German</option><option value="GH">General Honors</option><option value="GRK">Greek</option><option value="GS">General Studies - SPS</option><option value="HIST">History</option><option value="HON">Honors</option><option value="HSC">Health Science</option><option value="HSTY">History (Seminary)</option><option value="INTG">Integrated - Sem. Dual Degree</option><option value="ISIT">Info. Sys. &amp; Info. Tech. -SPS</option><option value="ITAL">Italian</option><option value="LAS">Latin Amer. Studies</option><option value="MACD">MA Community Develop</option><option value="MATH">Mathematics</option><option value="MNST">Ministry (Seminary)</option><option value="MUS">Music</option><option value="NONP">Nonprofit Management</option><option value="NPD">North Park Dialogue</option><option value="NPM">Non-Profit Management - SPS</option><option value="NURS">Nursing</option><option value="OC">Online Consortium</option><option value="ORG">Organization Mgmt. - SPS</option><option value="PHEN">Physics and Engineering</option><option value="PHIL">Philosophy</option><option value="POGO">Politics &amp; Govt.</option><option value="PSYC">Psychology</option><option value="SBNM">School of Business &amp; Nonprofit</option><option value="SCAN">Scandinavian Studies</option><option value="SEM">Seminary </option><option value="SOC">Sociology</option><option value="SPAN">Spanish</option><option value="SPFM">Spiritual Formation</option><option value="STAT">Statistics</option><option value="SWED">Swedish</option><option value="THEA">Theatre</option><option value="THEO">Theology (Seminary)</option><option value="WGS">Women's and Gender Studies</option><option value="WRIT">Writing Center</option><option value="YM">Youth Ministry</option></select>
+</div>
+</td><td class=" LIST_VAR2 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR2_5"></label><select name="LIST.VAR2_5" id="LIST_VAR2_5"><option value=""></option><option value="000L">Special</option><option value="1000">1000 Level</option><option value="2000">2000 Level</option><option value="3000">3000 Level</option><option value="4000">4000 Level</option><option value="5000">Graduate Level</option></select>
+</div>
+</td><td class=" LIST_VAR3 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR3_5"></label><input id="LIST_VAR3_5" type="text" name="LIST.VAR3_5" maxlength="7" size="7">
+</div>
+</td><td class=" LIST_VAR4 left oddrow">
+<div>
+<label class="hidden" for="LIST_VAR4_5"></label><input id="LIST_VAR4_5" type="text" name="LIST.VAR4_5" maxlength="5" size="5">
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<HR>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="vertical">
+<table class="layout" summary="This panel contains controls that are vertically  aligned.">
+<tr>
+<td colspan="2">
+<div class="horizontal">
+<table class="layout" summary="This panel contains controls that are horizontally aligned.">
+<tr>
+<td class="component combobox label"><label id="LABELID_VAR7" class="" for="VAR7">Sections Meeting After</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR7"></label><select name="VAR7" id="VAR7"><option value=""></option><option value="05:00">5am</option><option value="06:00">6am</option><option value="07:00">7am</option><option value="08:00">8am</option><option value="09:00">9am</option><option value="10:00">10am</option><option value="11:00">11am</option><option value="12:00">12pm</option><option value="13:00">1pm</option><option value="14:00">2pm</option><option value="15:00">3pm</option><option value="16:00">4pm</option><option value="17:00">5pm</option><option value="18:00">6pm</option><option value="19:00">7pm</option><option value="20:00">8pm</option><option value="21:00">9pm</option><option value="22:00">10pm</option></select>
+</div>
+</td><td class="component combobox label"><label id="LABELID_VAR8" class="" for="VAR8">Sections Ending Before</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR8"></label><select name="VAR8" id="VAR8"><option value=""></option><option value="05:00">5am</option><option value="06:00">6am</option><option value="07:00">7am</option><option value="08:00">8am</option><option value="09:00">9am</option><option value="10:00">10am</option><option value="11:00">11am</option><option value="12:00">12pm</option><option value="13:00">1pm</option><option value="14:00">2pm</option><option value="15:00">3pm</option><option value="16:00">4pm</option><option value="17:00">5pm</option><option value="18:00">6pm</option><option value="19:00">7pm</option><option value="20:00">8pm</option><option value="21:00">9pm</option><option value="22:00">10pm</option></select>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<HR>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="vertical">
+<table class="layout" summary="This panel contains controls that are vertically  aligned.">
+<tr>
+<td colspan="2">
+<div class="horizontal">
+<table class="layout" summary="This panel contains controls that are horizontally aligned.">
+<tr>
+<td class="component checkbox label"><label id="LABELID_VAR10" class="" for="VAR10">Mon</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR10"></label><input id="VAR10" type="checkbox" name="VAR10" value="Y">
+</div>
+</td><td class="component checkbox label"><label id="LABELID_VAR11" class="" for="VAR11">Tue</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR11"></label><input id="VAR11" type="checkbox" name="VAR11" value="Y">
+</div>
+</td><td class="component checkbox label"><label id="LABELID_VAR12" class="" for="VAR12">Wed</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR12"></label><input id="VAR12" type="checkbox" name="VAR12" value="Y">
+</div>
+</td><td class="component checkbox label"><label id="LABELID_VAR13" class="" for="VAR13">Thu</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR13"></label><input id="VAR13" type="checkbox" name="VAR13" value="Y">
+</div>
+</td><td class="component checkbox label"><label id="LABELID_VAR14" class="" for="VAR14">Fri</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR14"></label><input id="VAR14" type="checkbox" name="VAR14" value="Y">
+</div>
+</td><td class="component checkbox label"><label id="LABELID_VAR15" class="" for="VAR15">Sat</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR15"></label><input id="VAR15" type="checkbox" name="VAR15" value="Y">
+</div>
+</td><td class="component checkbox label"><label id="LABELID_VAR16" class="" for="VAR16">Sunday</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR16"></label><input id="VAR16" type="checkbox" name="VAR16" value="Y">
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<HR>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="vertical">
+<table class="layout" summary="This panel contains controls that are vertically  aligned.">
+<tr>
+<td class="component text label"><label id="LABELID_VAR3" class="" for="VAR3">Course Title Keyword(s)</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR3"></label><input id="VAR3" type="text" name="VAR3" maxlength="30" size="30">
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="horizontal">
+<table class="layout" summary="This panel contains controls that are horizontally aligned.">
+<tr>
+<td class="component combobox label"><label id="LABELID_VAR6" class="" for="VAR6">Location</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR6"></label><select name="VAR6" id="VAR6"><option value=""></option><option value="ARL">Arlington Hts.</option><option value="ARLA">Arlington Hts.-A Quad</option><option value="ARLB">Arlington Hts.-B Quad</option><option value="ATL">Atlanta, GA</option><option value="AUS">Ausable Institute</option><option value="CEOP">Cov. External Orient. Prog.</option><option value="CI">Chicago Intensive</option><option value="DOL">Dolton, IL</option><option value="ECU">Ecuador</option><option value="ECUA">Ecuador - Quad A</option><option value="ECUB">Ecuador - Quad B</option><option value="GL">Grayslake</option><option value="GLA">Grayslake-A Quad</option><option value="GLB">Grayslake-B Quad</option><option value="HYARL">Hybrid - Arlington Heights</option><option value="HYMC">Hybrid - Main Campus</option><option value="HYMCA">Hybrid - Main Campus Quad A</option><option value="HYMCB">Hybrid - Main Campus Quad B</option><option value="JO">Jonkoping, Sweden</option><option value="LG">Lake Geneva</option><option value="LOOP">Loop, Chicago</option><option value="MC">Main Campus</option><option value="MC3">McHenry County College</option><option value="MC3A">McHenry Co. Coll.-A Quad</option><option value="MC3B">McHenry Co. Coll.-B Quad</option><option value="MCA">Main Campus-A Quad</option><option value="MCB">Main Campus-B Quad</option><option value="MCJJ">Summer June/July Session</option><option value="MCJUL">Summer July Session</option><option value="MCJUN">Summer June Session</option><option value="MCMAY">Summer May Session</option><option value="MCS">Main Campus-Seminary</option><option value="MID">Midwinter</option><option value="MOR">Morton Arboretum</option><option value="MPLS">Minneapolis, MN</option><option value="NET">Internet</option><option value="NETA">Internet-A Quad</option><option value="NETB">Internet-B Quad</option><option value="NW">Niles West H.S.</option><option value="OCICA">Online Consortium-Quad A</option><option value="OCICB">Online Consortium-Quad B</option><option value="OCICU">Online Consortium</option><option value="ORI">Oriole Park</option><option value="ORIA">Oriole Park - A Quad</option><option value="ORIB">Oriole Park - B Quad</option><option value="PES">Peterson Elem. School</option><option value="PESA">Peterson Elem. Sch. - Quad A</option><option value="PESB">Peterson Elem. Sch. - Quad B</option><option value="PORT">Portage Park Elementary School</option><option value="PORTA">Portage Park Elem. Quad A</option><option value="PORTB">Portage Park Elem. Quad B</option><option value="SCH">Swedish Cov. Hosp.</option><option value="SCU">SCUPE</option><option value="SEA">Seattle, WA</option><option value="SHD">Shedd Aquarium</option><option value="VON">Von Steuben</option></select>
+</div>
+</td><td class="component combobox label"><label id="LABELID_VAR21" class="" for="VAR21">Academic Level</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR21"></label><select name="VAR21" id="VAR21"><option value=""></option><option value="GR">Graduate</option><option value="UG">Undergraduate</option></select>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="component text label"><label id="LABELID_VAR9" class="" for="VAR9">Instructor's Last Name</label></td><td class="control left">
+<div>
+<label class="hidden" for="VAR9"></label><input id="VAR9" type="text" name="VAR9" maxlength="20" size="20">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<HR>
+</td>
+</tr>
+</table>
+<input type="hidden" name="RETURN.URL" value="HTTPS://webadvisor.northpark.edu/WebAdvisor/WebAdvisor?TYPE=M&amp;PID=CORE-WBST&amp;CONSTITUENCY=WBST&amp;CONSTITUENCY=WBST"><input type="hidden" name="SUBMIT_OPTIONS" value="file:///Users/Tiggiebear/Desktop/testing/physicspage">
+<div class="submit">
+<input type="submit" name="SUBMIT2" value="SUBMIT" class="shortButton" accesskey="S" >
+</div>
+</form>
+</div>
+</div>
+</div>
+<div id="pageFooter">
+<div class="custom">
+</div>
+<div id="footerBanner">
+<div id="sysToolbar">
+<ul class="toolbar">
+<li id="sysContact">
+<a href="HTTP://helpdesk.northpark.edu" onmouseover="window.status=''; return true;"><span class="label">Contact Us</span></a>
+</li>
+<li id="sysHelp">
+<a target="_help" href="HTTPS://webadvisor.northpark.edu/WebAdvisor/Help?TOKENIDX=5034065060&amp;WEB=Y&amp;type=P&amp;pid=ST-WESTS04A&amp;constituency=WBST&amp;username=Phillip" accesskey="h" onmouseover="window.status=''; return true;"><span class="label">Help</span></a>
+</li>
+<li id="sysConstituency">
+<a href="HTTPS://webadvisor.northpark.edu/WebAdvisor/WebAdvisor?TOKENIDX=5034065060&amp;CONSTITUENCY=WBST&amp;TYPE=M&amp;PID=CORE-WBST" onmouseover="window.status=''; return true;"><span class="label">Students Menu</span></a>
+</li>
+<li id="sysMain">
+<a href="HTTPS://webadvisor.northpark.edu/WebAdvisor/WebAdvisor?TOKENIDX=5034065060&amp;CONSTITUENCY=WBST&amp;TYPE=M&amp;PID=CORE-WBMAIN" onmouseover="window.status=''; return true;"><span class="label">Main Menu</span></a>
+</li>
+<li id="sysLogout">
+<a href="HTTPS://webadvisor.northpark.edu/WebAdvisor/WebAdvisor?TOKENIDX=5034065060&amp;CONSTITUENCY=WBST&amp;type=P&amp;pid=UT-LORQ" onmouseover="window.status=''; return true;"><span class="label">Log Out </span></a>
+</li>
+</ul>
+<div id="sysWidget">
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
